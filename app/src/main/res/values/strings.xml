@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bonjour</string>
+    <string name="title_activity_ben">benActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">login</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="nom">nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="button">Button</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="title_activity_main4">Main4Activity</string>
+</resources>
